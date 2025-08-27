@@ -1,3 +1,3 @@
 This is Link for webiste which we have made in Next Js but we cannnot Publish our code due to Client agreeement
-You can check live [webiste](medisyncsolutions.net).
+You can check live [webiste](https://medisyncsolutions.net/).
 
